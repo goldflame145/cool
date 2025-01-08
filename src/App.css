@@ -1,0 +1,31 @@
+img{
+height:400px;
+border-radius: 5px;
+}
+.Nav{
+  background-color: rgb(38, 37, 37);
+  color: white  ;
+}
+a{
+  padding-left: 20px;
+  font-size: large;
+}
+a:hover{
+  opacity: 0.7;
+  cursor: pointer;
+}
+.App{
+  background-color: rgb(38, 37, 37);
+}
+.Trueapp{
+background-color: aliceblue;
+margin-left: 250px;
+width: 1000px;
+border-radius: 10px;
+}
+.About{
+  background-color: aliceblue;
+margin-left: 250px;
+width: 1000px;
+border-radius: 10px;
+}
