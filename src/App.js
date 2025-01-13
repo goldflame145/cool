@@ -12,7 +12,7 @@ function App() {
         <div>
 <h2>Welcome to the wonderful world of AI</h2>
 <p>Explore ai and it's uses history and potential</p>
-<img src='https://itchronicles.com/wp-content/uploads/2020/11/where-is-ai-used.jpg'/>
+<img src='https://itchronicles.com/wp-content/uploads/2020/11/where-is-ai-used.jpg' alt='helloworld'/>
 </div>
 </center>
 </div>

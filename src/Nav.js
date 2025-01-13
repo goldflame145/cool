@@ -4,9 +4,9 @@ function Nav() {
   return (
     <div className="Nav">
 <h1>Artificial Intelligence</h1>
-<a>Home</a>
-<a>About</a>
-<a>Applictions</a>
+<a href='/'>Home</a>
+<a href='/about'> About</a>
+<a href='/App'>Applictions</a>
     </div>
   );
 }

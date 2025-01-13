@@ -1,7 +1,11 @@
 import './App.css';
+import Nav from './Nav';
 function About() {
   return (
+    <div className='App'>
+      <Nav/>
     <div className="About">
+    
       <center>
         <div>
             <h1>About AI</h1>
@@ -9,7 +13,9 @@ function About() {
 </div>
 </center>
     </div>
+    </div>
   );
 }
+
 
 export default About;
