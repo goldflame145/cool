@@ -1,12 +1,13 @@
+import { Link } from 'react-router-dom';
 import './App.css';
 
 function Nav() {
   return (
     <div className="Nav">
 <h1>Artificial Intelligence</h1>
-<a href='/'>Home</a>
-<a href='/about'> About</a>
-<a href='/App'>Applictions</a>
+<Link to='/'>Home</Link>
+<Link to='/about'> About</Link>
+<Link to='/App'>Applictions</Link>
     </div>
   );
 }
